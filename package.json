@@ -4,6 +4,7 @@
   "description": "A simple administration app made using React and Redux",
   "main": "index.js",
   "scripts": {
+    "start": "babel-node tools/sourceServer.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
